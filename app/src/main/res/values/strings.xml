@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Settings</string>
+    <string name="hello">Planeador de Trayectorias</string>
+    <string name="app_name">Planificador manual de trayectorias</string>
+    <string name="external_dir">Obtener Ruta</string>
+
+</resources>
